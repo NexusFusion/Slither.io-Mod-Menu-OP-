@@ -1,1 +1,1 @@
-# Slither.io-Mod-Menu-OP-
+Press 1 to load menu and menu toggle key is "/"
